@@ -1,0 +1,8 @@
+
+2026-02-15 00:38:10,711 - INFO- Diagnostico whois iniciado... 
+2026-02-15 00:38:11,568 - INFO- Fecha de Expiracion Obteniada
+2026-02-15 00:38:11,568 - INFO- Dominio valido expira hasta el 2028-08-28 16:54:44 
+2026-02-15 00:38:11,568 - INFO- Organizacion encontrada Domains By Proxy, LLC
+2026-02-15 00:38:11,568 - INFO- Registrador encontrado: GoDaddy.com, LLC
+2026-02-15 00:38:11,568 - INFO- Emails Encontrados: abuse@godaddy.com
+2026-02-15 00:38:11,568 - INFO- [DNSSEC]: signedDelegation / Delegación firmada
